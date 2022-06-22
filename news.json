@@ -1,1 +1,20 @@
-
+[
+  {
+    "title": "Mesmo palco, duas histórias:",
+    "description": "Para melhorar o departamento, a gente também tem que vencer. Porque ninguém quer ajudar o perdedor; Times se enfrentam às 15h deste domingo, nos Aflitos, na 1ª fase da Série A3",
+    "image": "https://s2.glbimg.com/mGplDvnavJ43_9iCEjHIHe32N_U=/0x0:2048x1364/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/i/V/HxHBxWRyGifijCBHdTTg/fvywgglveaass1u.jpg",
+    "link": "https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/06/19/mesmo-palco-duas-historias-novo-classico-nautico-x-sport-decide-futuro-no-brasileiro-feminino.ghtml"
+  },
+  {
+    "title": "Náutico e Sport empatam em 1 a 1:",
+    "description": "Jogo da volta será no próximo domingo, dia 26, na Ilha do Retiro. Quem vencer, avança para a segunda fase; em caso de novo empate, decisão será nos pênaltis",
+    "image": "https://s2.glbimg.com/0_Dx_et-zxWHaByXEQum0NKy-qA=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/D/g/ahz06BRESgfBf1ohIxxA/frame-00-31-07.321.jpg",
+    "link" "https://ge.globo.com/pe/futebol/noticia/2022/06/19/nautico-e-sport-empatam-em-1-a-1-no-primeiro-jogo-do-mata-mata-da-serie-a3-do-brasileiro-feminino.ghtml"
+  },
+  {
+    "title": "Brasileiro Feminino da Série A3 estreia em edição inédita com clássicos na primeira fase",
+    "description": "CBF custeia viagens, alimentação e despesa operacional dos jogos em competição que tem meta de ampliar acesso dos clubes ao calendário nacional; Náutico x Sport e Vila Nova x Atlético-GO",
+    "image": "https://s2.glbimg.com/s96sGbRIP52DHw7Vj4rZ9qKI_V8=/0x0:910x607/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/X/5/UPpj5NQSupbdM3jj42AQ/20210907203545-881.jpeg",
+    "link" "https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/06/11/brasileiro-feminino-da-serie-a3-estreia-em-edicao-inedita-com-classicos-na-primeira-fase.ghtml"
+  }
+]
